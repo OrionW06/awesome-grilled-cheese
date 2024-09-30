@@ -4,4 +4,6 @@
 ## Helpful Links and Resources
 - https://www.youtube.com/watch?v=NFAN6L7xnvY
 	- I don't agree with all of Babish's suggestions (here), but I found some of his considerations for Grilled Cheese helpful.
-- 
+
+## My Recipes!
+[[Bacon Grilled Cheese]]
