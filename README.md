@@ -6,7 +6,7 @@
 	- I don't agree with all of Babish's suggestions (here), but I found some of his considerations for Grilled Cheese helpful.
 
 ## My Recipes!
-[Bacon Grilled Cheese](Personal_Grilled_Cheeses/Bacon Grilled Cheese.md)
+[Bacon Grilled Cheese](Personal_Grilled_Cheeses/Bacon%20Grilled%20Cheese.md)
 
 
 #### Made with [Obsidian.MD!](https://obsidian.md/) 
